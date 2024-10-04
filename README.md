@@ -39,11 +39,11 @@ npm install
 
 2. Run The Server
 ```bash
-npm run mockApi
+node mockApi.js
 ```
 3. Run the bot
 ```bash
-npm run bot
+node bot.js
 ```
 ## Explanation
 
